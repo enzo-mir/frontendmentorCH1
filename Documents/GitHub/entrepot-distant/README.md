@@ -1,1 +1,1 @@
-Initialisation du fichierxccc
+read
