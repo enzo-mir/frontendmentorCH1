@@ -1,1 +1,1 @@
-ok
+Initialisation du fichier
